@@ -1,6 +1,6 @@
 # Traffic Signal Violation Detection System using Computer Vision
 
-> <a href="Project Demonstration - Guidelines.txt"><h3>Project Video Demonstration</h3></a>
+> <a href="Project Demonstration - Guidelines.txt"><h3>Project Demonstration</h3></a>
 
 > <a href="Project Report.pdf"><h3>Project Report</h3></a>
 
