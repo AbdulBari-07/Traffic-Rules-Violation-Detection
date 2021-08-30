@@ -1,10 +1,10 @@
 # Traffic Signal Violation Detection System using Computer Vision
 
-> <a href="https://youtu.be/PxHkKLUk_QM"><h3>Project Video Demonstration</h3></a>
+> <h3>Project Video Demonstration</h3>
 
-> <a href="https://drive.google.com/open?id=1H5RjHPJ0CK5yq2_3vwwo4CwZt1NXTeVB"><h3>Project Report</h3></a>
+> <h3>Project Report</h3>
 
-> <a href="https://drive.google.com/open?id=1l46H2pNTbLLcIFSHWsMtor-vlvNSA4Gu"><h3>Project Slide</h3></a>
+> <h3>Project Slide</h3>
 
 
 ![Violation_Detection_Frame](Images/Violation_Detection_Frame_Red.jpg)
@@ -125,34 +125,26 @@ The main reason to publish something open source, is that anyone can just jump i
 So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links and References
-- Project homepage: https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
-- Repository: https://github.com/anmspro/Traffic-Signal-Violation-Detection-System.git
-- Issue tracker: https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/issues
-- G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
-- X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
-- Joseph Redmon and Ali Farhadi, "YOLOv3: An Incremental Improvement".
-- https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras
-- In case of any help you may need from me, please contact abunomanmd.sakib@gmail.com directly without any hesitation! I will be glad to help you.
+- Project homepage: https://github.com/AbdulBari-07/Traffic-Rules-Violation-Detection
+- Repository: https://github.com/AbdulBari-07/Traffic-Rules-Violation-Detection.git
+- Issue tracker: https://github.com/AbdulBari-07/Traffic-Rules-Violation-Detection/issues
+
+Note: In case of any help you may need from me, please contact abari7531@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
-Abu Noman Md. Sakib, Pias Roy<br>
-abunomanmd.sakib@gmail.com<br>
-pias.kuet@gmail.com<br>
+Abdul Bari<br>
+abari7531@gmail.com<br>
 Student at Department of Computer Science and Engineering<br>
-Khulna University of Engineering & Technology, Khulna<br>
-Bangladesh
+Kakatiya Institute of Technology and Science, Warangal (KITSW)<br>
+India
 
 <b> Supervised under </b><br>
-Mahmudul Hasan Shauqi<br>
-mahmudulhasanshauqi@gmail.com<br>
-Lecturer<br>
+Sharfuddin Waseem<br>
+waseem.cse@kitsw.ac.in<br>
+Assistant Professor<br>
 Dept. of Computer Science and Engineering<br>
-Khulna University of Engineering & Technology<br>
+Kakatiya Institute of Technology and Science, Warangal (KITSW)<br>
 
 ## Licensing
 The code in this project is licensed under GNU GPLv3 license.
 
-## Stargazers over time
-
-![Stargazers over time](https://starchart.cc/anmspro/Traffic-Signal-Violation-Detection-System.svg)
-      
