@@ -2,9 +2,9 @@
 
 > <a href="Project Demonstration - Guidelines.txt"><h3>Project Video Demonstration</h3></a>
 
-> <h3>Project Report</h3>
+> <a href="Project Report.pdf"><h3>Project Report</h3></a>
 
-> <h3>Project Slide</h3>
+> <a href="Project Slide.pptx"><h3>Project Slide</h3></a>
 
 
 ![Violation_Detection_Frame](Images/Violation_Detection_Frame_Red.jpg)
