@@ -21,8 +21,4 @@ Run "python Project-GUI.py".
 Wait for the convolutional weights to be loaded.
 The process is same as before.
 
-Thank you for watching. The whole process was a bit slow for the low configuration of my pc.
-Hope you will understand.
-:)
-
-If you like the project, give a visit: https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
+Thank you!
